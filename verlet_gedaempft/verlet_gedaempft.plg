@@ -1,0 +1,32 @@
+<html>
+<body>
+<pre>
+<h1>Erstellungsprotokoll</h1>
+<h3>
+--------------------Konfiguration: verlet_gedaempft - Win32 Debug--------------------
+</h3>
+<h3>Befehlszeilen</h3>
+Erstellen der temporären Datei  "C:\DOKUME~1\DANIEL~1\LOKALE~1\Temp\RSP1B2.tmp" mit Inhalten
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/verlet_gedaempft.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"G:\Daten\Programming\C++\Uni Simulationen\verlet_oszillator gedaempft.cpp"
+]
+Creating command line "cl.exe @C:\DOKUME~1\DANIEL~1\LOKALE~1\Temp\RSP1B2.tmp" 
+Erstellen der temporären Datei  "C:\DOKUME~1\DANIEL~1\LOKALE~1\Temp\RSP1B3.tmp" mit Inhalten
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib  kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/verlet_gedaempft.pdb" /debug /machine:I386 /out:"Debug/verlet_gedaempft.exe" /pdbtype:sept 
+".\Debug\verlet_oszillator gedaempft.obj"
+]
+Erstellen der Befehlzeile "link.exe @C:\DOKUME~1\DANIEL~1\LOKALE~1\Temp\RSP1B3.tmp"
+<h3>Ausgabefenster</h3>
+Kompilierung läuft...
+verlet_oszillator gedaempft.cpp
+Linker-Vorgang läuft...
+
+
+
+<h3>Ergebnisse</h3>
+verlet_gedaempft.exe - 0 Fehler, 0 Warnung(en)
+</pre>
+</body>
+</html>

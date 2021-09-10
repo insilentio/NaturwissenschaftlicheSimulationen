@@ -1,0 +1,35 @@
+<html>
+<body>
+<pre>
+<h1>Erstellungsprotokoll</h1>
+<h3>
+--------------------Konfiguration: q2r - Win32 Debug--------------------
+</h3>
+<h3>Befehlszeilen</h3>
+Erstellen der temporären Datei  "C:\DOKUME~1\DANIEL~1\LOKALE~1\Temp\RSP187.tmp" mit Inhalten
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/q2r.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"G:\Daten\Programming\C++\Uni Simulationen\Q2R.CPP"
+]
+Creating command line "cl.exe @C:\DOKUME~1\DANIEL~1\LOKALE~1\Temp\RSP187.tmp" 
+Erstellen der temporären Datei  "C:\DOKUME~1\DANIEL~1\LOKALE~1\Temp\RSP188.tmp" mit Inhalten
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib  kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/q2r.pdb" /debug /machine:I386 /out:"Debug/q2r.exe" /pdbtype:sept 
+".\Debug\Q2R.OBJ"
+]
+Erstellen der Befehlzeile "link.exe @C:\DOKUME~1\DANIEL~1\LOKALE~1\Temp\RSP188.tmp"
+<h3>Ausgabefenster</h3>
+Kompilierung läuft...
+Q2R.CPP
+g:\daten\programming\c++\uni simulationen\q2r.cpp(24) : warning C4101: 'T' : Unreferenzierte lokale Variable
+g:\daten\programming\c++\uni simulationen\q2r.cpp(24) : warning C4101: 'x' : Unreferenzierte lokale Variable
+g:\daten\programming\c++\uni simulationen\q2r.cpp(24) : warning C4101: 'y' : Unreferenzierte lokale Variable
+Linker-Vorgang läuft...
+
+
+
+<h3>Ergebnisse</h3>
+q2r.exe - 0 Fehler, 3 Warnung(en)
+</pre>
+</body>
+</html>

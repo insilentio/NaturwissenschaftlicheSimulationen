@@ -1,0 +1,40 @@
+<html>
+<body>
+<pre>
+<h1>Erstellungsprotokoll</h1>
+<h3>
+--------------------Konfiguration: ant2 - Win32 Debug--------------------
+</h3>
+<h3>Befehlszeilen</h3>
+Erstellen der temporären Datei  "C:\DOKUME~1\DANIEL~1\LOKALE~1\Temp\RSPE7.tmp" mit Inhalten
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/ant2.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"G:\Daten\Programming\C++\Uni Simulationen\ANT_2.CPP"
+]
+Creating command line "cl.exe @C:\DOKUME~1\DANIEL~1\LOKALE~1\Temp\RSPE7.tmp" 
+Erstellen der temporären Datei  "C:\DOKUME~1\DANIEL~1\LOKALE~1\Temp\RSPE8.tmp" mit Inhalten
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib  kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/ant2.pdb" /debug /machine:I386 /out:"Debug/ant2.exe" /pdbtype:sept 
+".\Debug\ANT_2.OBJ"
+]
+Erstellen der Befehlzeile "link.exe @C:\DOKUME~1\DANIEL~1\LOKALE~1\Temp\RSPE8.tmp"
+<h3>Ausgabefenster</h3>
+Kompilierung läuft...
+ANT_2.CPP
+g:\daten\programming\c++\uni simulationen\ant_2.cpp(244) : warning C4244: '=' : Konvertierung von 'double' in 'float', moeglicher Datenverlust
+g:\daten\programming\c++\uni simulationen\ant_2.cpp(245) : warning C4244: '=' : Konvertierung von 'double' in 'float', moeglicher Datenverlust
+g:\daten\programming\c++\uni simulationen\ant_2.cpp(248) : warning C4244: '=' : Konvertierung von 'double' in 'float', moeglicher Datenverlust
+g:\daten\programming\c++\uni simulationen\ant_2.cpp(249) : warning C4244: '=' : Konvertierung von 'double' in 'float', moeglicher Datenverlust
+g:\daten\programming\c++\uni simulationen\ant_2.cpp(258) : warning C4244: '=' : Konvertierung von 'double' in 'float', moeglicher Datenverlust
+g:\daten\programming\c++\uni simulationen\ant_2.cpp(259) : warning C4244: '=' : Konvertierung von 'double' in 'float', moeglicher Datenverlust
+g:\daten\programming\c++\uni simulationen\ant_2.cpp(263) : warning C4244: '=' : Konvertierung von 'double' in 'float', moeglicher Datenverlust
+g:\daten\programming\c++\uni simulationen\ant_2.cpp(264) : warning C4244: '=' : Konvertierung von 'double' in 'float', moeglicher Datenverlust
+Linker-Vorgang läuft...
+
+
+
+<h3>Ergebnisse</h3>
+ant2.exe - 0 Fehler, 8 Warnung(en)
+</pre>
+</body>
+</html>
